@@ -15,7 +15,6 @@ https.get('https://www.reddit.com/r/memes/new.json?sort=new', (resp) => {
     // The whole response has been received. Print out the result.
     resp.on('end', () => {
         data = JSON.parse(data);
-        console.log(data);
         fs.writeFile('request.json', (JSON.stringify(data)), function err(){
             
         });
