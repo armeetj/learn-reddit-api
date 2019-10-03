@@ -1,3 +1,6 @@
+//node.js
+//@Armeet Singh Jatyani 2019
+//basic code: learning how to perform requests, etc.
 const https = require('https');
 const fs = require('fs');
 
