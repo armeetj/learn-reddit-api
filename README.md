@@ -1,4 +1,4 @@
-# Reddit API (Test) 
+# Reddit API (Test) 🤣
 - Just some code that will return the author name, image link, and permalink for the latest post in /r/memes on reddit!
 - Learning how to make requests with node.js https
 - Learning simple REST API principles!
